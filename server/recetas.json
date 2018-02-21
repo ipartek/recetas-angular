@@ -1,4 +1,5 @@
 [{
+    "id": 1,
     "nombre" : "Pollo a la cerverza",
     "dificultad" : "Baja",
     "duracion" : "2 horas",
@@ -11,6 +12,7 @@
         }
       },
     {
+      "id": 23,
       "nombre" : "Sorbete de limón",
       "dificultad" : "Baja",
       "duracion" : "0.5 horas",
